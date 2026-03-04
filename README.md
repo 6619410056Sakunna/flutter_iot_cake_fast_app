@@ -1,16 +1,8 @@
 # flutter_iot_cake_fast_app
 
-A new Flutter project.
 
-## Getting Started
+<img width="80" height="150" alt="localhost_10048_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/f06480dc-eca0-4068-a73a-a0061ae6709c" />
 
-This project is a starting point for a Flutter application.
+<img width="80" height="150" alt="localhost_10048_(Samsung Galaxy S20 Ultra) (1)" src="https://github.com/user-attachments/assets/dc26a70a-afc2-4c08-b697-81f79e882270" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="80" height="150" alt="localhost_10048_(Samsung Galaxy S20 Ultra) (2)" src="https://github.com/user-attachments/assets/52b0e206-7d0f-4b44-86b5-bece35a2e7a3" />
